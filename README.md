@@ -2,6 +2,10 @@
 
 疫情可视化后端
 
+[FastAPI](https://fastapi.tiangolo.com/zh/) + [uvicorn](https://www.uvicorn.org/)
+
+> [Vue3 + vite + Ts + pinia + 实战 + 源码 +全栈_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dS4y1y7vd?p=51&spm_id_from=333.1007.top_right_bar_window_history.content.click)
+
 ---
 
 ## 部署说明
